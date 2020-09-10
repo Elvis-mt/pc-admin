@@ -36,6 +36,7 @@
 export default {
   name: 'HelloWorld',
   props: {
+    /* eslint-disable */
     msg: String
   }
 }
